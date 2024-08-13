@@ -1,3 +1,9 @@
+# Fork
+
+To do:
+- Separate web application from map control software
+- Host webapp with a production webserver instead of directly from Flask
+
 # LiveSectional.com
 
 <head>
